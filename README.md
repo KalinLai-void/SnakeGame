@@ -15,7 +15,7 @@
 - 當GameOver後，可以重新開始或結束遊戲
 
 ### 程式架構圖
-![Structure Chart](Structure Chart.png)
+![Structure Chart](Structure%20Chart.png)
 
 ### 操作說明 & 使用者介面
 鍵盤之上下左右控制，吃到 x 分數 +10。
