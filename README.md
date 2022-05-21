@@ -6,7 +6,7 @@
 - [Tranditional Chinese](/README.zh-tw.md)
 
 ### 開發動機
-雖然是語音壓縮，但我想到老師教過終端機的操作及 PortAudio + Sndfile 函式庫的使用，讓我想到 終端機 + 音樂。且自身對遊戲很有熱誠，加上小時候對於終端機遊戲的印象深刻，因此決定從終端機遊戲下手。不過原本想做大型一些的遊戲，但礙於我時間有限，因此決定僅做小小的遊戲就好。
+雖然是語音壓縮，但我想到老師教過終端機的操作及 PortAudio + LibSndfile 函式庫的使用，讓我想到 終端機 + 音樂。且自身對遊戲很有熱誠，加上小時候對於終端機遊戲的印象深刻，因此決定從終端機遊戲下手。不過原本想做大型一些的遊戲，但礙於我時間有限，因此決定僅做小小的遊戲就好。
 
 ### 功能說明
 - 其實就是很簡單的貪食蛇小遊戲
@@ -23,6 +23,10 @@ Gameover後，按下任意鍵重新開始遊戲，按ESC可離開遊戲。
 
 ![Gaming](Gaming.gif)
 ![Gameover](Gameover.gif)
+
+### 使用的外部函式庫
+- [Portaudio](https://github.com/PortAudio/portaudio)
+- [LibSndfile](https://github.com/libsndfile/libsndfile)
 
 ### 素材來源
 （無營利，僅做學習用途）
