@@ -22,13 +22,13 @@ void Game::Setup()
     dir = STOP;
 
     srand(time(NULL));
-    x = rand() % WIDTH + 1;
-    y = rand() % HEIGHT + 1;
+    x = rand() % (WIDTH - 1) + 1;
+    y = rand() % (HEIGHT - 1) + 1;
 
     do
     {
-        coinX = rand() % WIDTH + 1;
-        coinY = rand() % HEIGHT + 1;
+        coinX = rand() % (WIDTH - 1) + 1;
+        coinY = rand() % (HEIGHT - 1) + 1;
     } while (coinX == x && coinY == y); // avoid coin's position as same as snake's position
 
     score = 0;
@@ -162,8 +162,8 @@ void Game::Logic()
         HANDLE coinAudioHandle = CreateThread(0, 0, CoinAudio_Play, 0, 0, 0);
         score += 10;
         UpdateScoreText();
-        coinX = rand() % WIDTH + 1;
-        coinY = rand() % HEIGHT + 1;
+        coinX = rand() % (WIDTH - 1) + 1;
+        coinY = rand() % (HEIGHT - 1) + 1;
         nTail++;
         speed -= DEC_SPEED_PER_SCORE;
         speed = (speed <= 0 ? 0 : speed);
