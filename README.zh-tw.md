@@ -1,7 +1,7 @@
 ## 貪食蛇
 此為大學課程「語音壓縮」之期末專題
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q1S-aw7Jgzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Demo影片](https://youtu.be/q1S-aw7Jgzg)
 
 ### README.md Language
 - [English](/README.md)
