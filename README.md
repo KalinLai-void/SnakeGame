@@ -2,6 +2,8 @@
 This is the terminal project of the course "Speech Compression" in my college.
 ((( my English is not good, sorry...
 
+[Demo Video](https://youtu.be/q1S-aw7Jgzg)
+
 ### README.md Language
 - [English](/README.md)
 - [Tranditional Chinese](/README.zh-tw.md)

@@ -1,6 +1,8 @@
 ## 貪食蛇
 此為大學課程「語音壓縮」之期末專題
 
+[Demo影片](https://youtu.be/q1S-aw7Jgzg)
+
 ### README.md Language
 - [English](/README.md)
 - [Tranditional Chinese](/README.zh-tw.md)
