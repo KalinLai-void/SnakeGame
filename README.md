@@ -2,7 +2,7 @@
 This is the terminal project of the course "Speech Compression" in my college.
 ((( my English is not good, sorry...
 
-[Demo Video](https://youtu.be/q1S-aw7Jgzg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q1S-aw7Jgzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### README.md Language
 - [English](/README.md)
